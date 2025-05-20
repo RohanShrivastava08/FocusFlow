@@ -1,4 +1,10 @@
-# 🚀📋 Focus Flow
+# 🚀📋 Focus Flow - A Pomodoro Timer App
+
+![Screenshot (120)](https://github.com/user-attachments/assets/b133a74a-a54c-490f-b632-8cac19b7ebaa)
+
+![Screenshot (124)](https://github.com/user-attachments/assets/cd91858b-7adf-4905-ae5c-5a31f6dcda47)
+
+![Screenshot (126)](https://github.com/user-attachments/assets/9d772d20-0779-419f-ac20-b7075e358af8)
 
 - A clean, minimalist, and effective Pomodoro Timer app built using React and Tailwind CSS.
 
